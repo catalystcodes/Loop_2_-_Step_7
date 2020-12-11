@@ -1,0 +1,22 @@
+body {
+    background-color: #c9f8fe;
+}
+
+.whole {
+    display: grid;
+    grid-template-columns: 50% 40%;
+    margin: 9.3rem 25.3rem;
+}
+
+.head1 {
+    background-image: url(../media/background.jpg);
+    background-size: cover;
+    height: 20rem;
+    width: 18rem;
+}
+
+.head2 {
+    height: 20rem;
+    width: 23rem;
+    background-color: white;
+}
