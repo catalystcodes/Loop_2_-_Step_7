@@ -1,5 +1,6 @@
 body {
     background-color: #c9f8fe;
+    font-family: sans-serif;
 }
 
 .whole {
@@ -19,4 +20,36 @@ body {
     height: 20rem;
     width: 23rem;
     background-color: white;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #639d8d;
+}
+
+.h1 {
+    color: white;
+    font-size: larger;
+    font-weight: normal;
+    margin-top: 4rem;
+}
+
+.img1 {
+    margin-right: 0.2rem;
+}
+
+.button1 {
+    border-radius: 25px;
+    padding: 0.5rem 1.3rem;
+    margin: 10rem auto;
+    outline: none;
+    border: none;
+    opacity: 0.8;
+}
+
+.p1 {
+    color: white;
+    font-size: x-small;
 }
