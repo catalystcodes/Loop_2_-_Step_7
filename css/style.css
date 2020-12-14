@@ -101,4 +101,31 @@ body {
 .img3 {
     width: 1.5rem;
     height: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.head6 {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+
+.p5 {
+    font-size: x-small;
+    font-weight: bolder;
+    color: #99a1a5;
+    margin-right: 2rem;
+}
+
+.p6 {
+    font-size: large;
+    font-family: sans-serif;
+    margin-right: 0.3rem;
+    font-weight: lighter;
+}
+
+.p7 {
+    font-size: x-small;
+    font-weight: bolder;
 }
