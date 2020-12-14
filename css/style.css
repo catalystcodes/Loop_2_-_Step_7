@@ -44,7 +44,7 @@ body {
     width: 1rem;
 }
 
-.button1 {
+button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -55,6 +55,12 @@ body {
     outline: none;
     border: none;
     opacity: 0.8;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #51ae93;
+    opacity: 1;
 }
 
 .p1 {
